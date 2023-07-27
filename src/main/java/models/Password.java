@@ -15,5 +15,4 @@ public class Password {
 	public static void setPwd(String pwd) {
 		Password.pwd = pwd;
 	}
-
 }
